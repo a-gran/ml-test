@@ -53,7 +53,11 @@
 
 | EDA | ROC-кривая | Обучение |
 |-----|-----------|---------|
-| ![EDA](img/eda_analysis.png) | ![ROC](img/roc_curve.png) | ![Training](img/training_results.png) |
+|  ![EDA](img/eda_analysis.png)  |  ![ROC](img/roc_curve.png)  |  ![Training](img/training_results.png)  |
+
+### 4.3 Пример итогов запуска программы
+
+|  ![Пример](img/roc_curve.png)  |
 
 ---
 
