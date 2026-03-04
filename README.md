@@ -55,7 +55,7 @@
 |-----|-----------|---------|
 |  ![EDA](img/eda_analysis.png)  |  ![ROC](img/roc_curve.png)  |  ![Training](img/training_results.png)  |
 
-### 4.3 Пример итогов запуска программы
+### 4.3 Оценка качества модели (пример)
 
 ![Пример](img/example_result.jpg)
 
