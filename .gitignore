@@ -1,0 +1,73 @@
+# Временные файлы Claude Code
+tmpclaude*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Старые резервные копии
+*_old.py
+*_backup.py
+
+# Логи и базы данных
+*.log
+*.db
+*.sqlite
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Временные файлы редакторов
+*.bak
+*.tmp
+*.temp
+.~*
+
+# Сохранения игры (если будут)
+saves/
+*.sav
+
+# Скомпилированные ресурсы (если будут)
+assets/compiled/
+.claude
