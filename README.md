@@ -38,7 +38,7 @@
 - артериальное давление, холестерин, уровень сахара
 - результаты ЭКГ, максимальная ЧСС, стенокардия
 
-Данные взяты на [Kaggle Datasets](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download).
+Данные взяты на [Kaggle Datasets Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download).
 
 **Целевая переменная:** `HeartDisease` — `1` (есть заболевание) / `0` (здоров)
 
